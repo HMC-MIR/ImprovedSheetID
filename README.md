@@ -1,4 +1,4 @@
-# ComposerID
+# Marketplace Fingerprinting
 
 The goal of this project is to predict the identity of an image of sheet music by searching the IMSLP database.
 
